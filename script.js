@@ -1,4 +1,4 @@
-const OPENWEATHER_API_KEY = '3e53c4201011643e380da33748c1cde7'; // Replace with your key
+const OPENWEATHER_API_KEY = '3e53c4201011643e380da33748c1cde7'; 
 
 async function getCityInfo() {
     const city = document.getElementById('cityInput').value;
